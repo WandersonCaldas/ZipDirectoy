@@ -1,2 +1,2 @@
 # ZipDirectoy
-Adicionar conteúdo de um diretório(Winzip)
+Compactar conteúdo de um diretório(Winzip)
